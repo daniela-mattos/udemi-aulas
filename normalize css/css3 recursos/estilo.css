@@ -1,0 +1,55 @@
+#caixa {
+    width: 300px;
+    height: 300px;
+    padding: 50px; 
+    margin: 20px;
+    background: #009670; 
+    box-shadow: 0px 0px 100px 10px blueviolet; /*Quarto valor atribui "spread" que espalha a cor*/
+}
+
+#caixa h1 {
+    color: white;
+    /* text-shadow: 2px 2px black; */
+    text-shadow: 20px 20px 5px rgba(0,0,0,0.6); /*Terceiro valor faz efeito blur na sombra*/
+}
+
+/* DEGRADÊS
+
+#caixa {
+    width: 300px;
+    height: 300px;
+    background: url(../img/camera.png); 
+    background: linear-gradient(110deg, purple, blue, cyan, green, yellow, orangered, red);
+    background: radial-gradient( purple, blue, cyan, green, yellow, orangered, red);
+}
+
+#caixa h1 {
+    background: rgba(255, 255, 255, 0.7);
+} */
+
+
+
+/* BOX SIZING
+#caixa {
+    width: 300px;
+    height: 300px;
+    background: #b9c941; 
+    padding: 50px;   
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    margin: 10px;
+    -moz-border-radius: 20px 90px;
+    -webkit-border-radius: 20px 90px;
+    border-radius: 20px 90px;
+}
+#caixa2 {
+    width: 300px;
+    height: 300px;
+    background: #b9c941; 
+    padding: 50px;   
+    margin: 10px;
+    -moz-border-radius: 20px 90px;
+    -webkit-border-radius: 20px 90px;
+    border-radius: 20px 90px;
+} */

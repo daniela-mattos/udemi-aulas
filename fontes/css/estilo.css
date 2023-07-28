@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Road Rage";
+    src: url(../fonts/Road_Rage.woff);
+}
+
+@font-face {
+    font-family: Heart;
+    src: url(../fonts/BringHeart.woff);
+}
+
+@font-face {
+    font-family: Ancient;
+    src: url(../fonts/Ancient-Medium.woff);
+}
+
+h1 {
+    font-size: 4em;
+    font-family: "Road Rage";
+    text-align: center;
+}
+
+h2 {
+    font-size: 4em;
+    font-family: Heart;
+    text-align: center;
+}
+
+h3 {
+    font-size: 4em;
+    font-family: Ancient;
+    text-align: center;
+}
